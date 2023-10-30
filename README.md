@@ -7,12 +7,12 @@
 <br/>
 
 ## Program Menghitung Gaji Karyawan
-<img src="program menghitung gaji karyawan.png">
+<img src="output/program menghitung gaji karyawan.png">
 
 ## Program Penjualan Barang
-<img src="program penjualan barang.png">
+<img src="output/program penjualan barang.png">
 
 ## Program Menghitung Deret Ke-N
-<img src="program untuk menentukan faktorial dari jumlah derek ke n.png">
+<img src="output/program untuk menentukan faktorial dari jumlah deret ke n.png">
 
 **Selesai**
